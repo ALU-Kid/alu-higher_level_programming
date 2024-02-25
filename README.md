@@ -1,3 +1,4 @@
+hi
 # Student Records Application
 
 Welcome to the Student Records Application! This web-based application is designed to help users manage student information efficiently. Whether you're a teacher, administrator, or student, this application provides a user-friendly interface for recording, updating, and deleting student records.
